@@ -7,7 +7,7 @@ This is a spring boot application that has been made with h2 database.
 
 ## Starting
 using an IDE such as intellij you start the project. 
-To find the database use the link localhost:8080/h2. username and password of database is sa (sa is both password and username). To best access the endpoints I used postman but you can also use your browser. 
+To find the database use the link localhost:8080/h2 (after starting up the project). username and password of database is sa (sa is both password and username). To best access the endpoints I used postman but you can also use your browser. 
 
 ## To access Files
 To access the files you can go to the src/main/java/CaseStudy/Dashmote/ and see all the controller/model/service classes. The apprunner file contains the code where the json files were read. 
